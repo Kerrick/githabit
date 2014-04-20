@@ -1,6 +1,6 @@
 {
   "name": "githabit",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Use Github webhooks with HabitRPG!",
   "main": "index.js",
   "scripts": {
@@ -15,9 +15,5 @@
   "bugs": {
     "url": "https://github.com/Kerrick/githabit/issues"
   },
-  "homepage": "https://github.com/Kerrick/githabit",
-  "dependencies": {
-    "gith": "^1.0.4",
-    "node-env-flag": "^0.1.0"
-  }
+  "homepage": "https://kerricklong.com/articles/githabit.html"
 }

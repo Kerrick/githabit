@@ -5,13 +5,12 @@ Use [Github webhooks](https://developer.github.com/webhooks/) with [HabitRPG](ht
 ## Running the server
 
 ```
-GITHABIT_PORT=4567 GITHABIT_SSL=false node ./index.js
+GITHABIT_PORT=4567 node ./index.js
 ```
 
 ### Environment variables
 
 - `GITHABIT_PORT` (number), which port to listen to. Defaults to `4567`.
-- `GITHABIT_SSL` (boolean), whether to use HTTPS (`true`) or HTTP (`false`). Defaults to `false`.
 
 ## Using the webhook
 
