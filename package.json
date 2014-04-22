@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kerrick/githabit/issues"
   },
-  "homepage": "https://kerricklong.com/articles/githabit.html"
+  "homepage": "https://kerricklong.com/articles/githabit.html",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
 }
